@@ -9,3 +9,6 @@ I chose this dataset because I am passionate about football and closely follow t
 - `amanda-wilson-finalproject.ipynb`: Google Colab notebook containing the full analysis workflow
 
 The dataset was uploaded to GitHub to ensure reproducibility and easy access within Google Colab.
+
+**Google Colab Notebook:**  
+https://colab.research.google.com/drive/1W7XW9tqPU9gHffUg6U1XRgN6qruvciCO?usp=sharing
